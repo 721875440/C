@@ -1,0 +1,12 @@
+﻿生成启动时间为 2016-10-21 01:14:44。
+     1>项目“D:\WWW\github\C\极限值\CHAR_MIN\CHAR_MIN\CHAR_MIN.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WWW\github\C\极限值\CHAR_MIN\Debug\CHAR_MIN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\WWW\github\C\极限值\CHAR_MIN\Debug\CHAR_MIN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WWW\github\C\极限值\CHAR_MIN\Debug\CHAR_MIN.lib" /MACHINE:X86 Debug\CHAR_MAX.obj
+         Debug\CHAR_MIN.obj
+     1>CHAR_MIN.obj : error LNK2005: _main 已经在 CHAR_MAX.obj 中定义
+     1>D:\WWW\github\C\极限值\CHAR_MIN\Debug\CHAR_MIN.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“D:\WWW\github\C\极限值\CHAR_MIN\CHAR_MIN\CHAR_MIN.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28
