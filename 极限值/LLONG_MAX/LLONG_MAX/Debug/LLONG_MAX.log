@@ -1,4 +1,4 @@
-﻿生成启动时间为 2016-10-21 02:27:09。
+﻿生成启动时间为 2016-10-23 05:06:38。
      1>项目“D:\WWW\github\C\极限值\LLONG_MAX\LLONG_MAX\LLONG_MAX.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt LLONG_MAX.c
@@ -10,4 +10,4 @@
 
 生成成功。
 
-已用时间 00:00:00.59
+已用时间 00:00:02.16
