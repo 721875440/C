@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016-10-29 19:58:25。
+     1>项目“D:\WWW\github\C\流程控制\if\if\if.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt if.c
+         if.c
+     1>d:\www\github\c\流程控制\if\if\if.c(14): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\www\github\c\流程控制\if\if\if.c(14): error C2143: 语法错误 : 缺少“)”(在“类型”的前面)
+     1>d:\www\github\c\流程控制\if\if\if.c(14): error C2065: “a”: 未声明的标识符
+     1>d:\www\github\c\流程控制\if\if\if.c(14): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\www\github\c\流程控制\if\if\if.c(14): error C2059: 语法错误:“)”
+     1>d:\www\github\c\流程控制\if\if\if.c(14): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\www\github\c\流程控制\if\if\if.c(15): error C2065: “a”: 未声明的标识符
+     1>已完成生成项目“D:\WWW\github\C\流程控制\if\if\if.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19
